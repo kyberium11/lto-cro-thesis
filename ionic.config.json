@@ -1,0 +1,7 @@
+{
+  "name": "ocr-lto-thesis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

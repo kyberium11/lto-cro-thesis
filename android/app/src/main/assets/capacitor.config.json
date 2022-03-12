@@ -1,0 +1,6 @@
+{
+	"appId": "ocr.lto.thesis",
+	"appName": "Plate Verification OCR",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
